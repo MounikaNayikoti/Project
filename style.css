@@ -1,0 +1,50 @@
+body{
+    margin:0;
+    padding:0;
+    background: linear-gradient(rgb(18, 18, 0),rgb(26, 26, 27));
+    color:white;
+    text-align:center;
+
+}
+h1{
+    margin:15px;
+    text-align:center;
+    font-size:60px;
+    font-weight:20px;
+    font-style:oblique;
+}
+.main1{
+    border: 1px solid whitesmoke;
+    width:35%;
+    height:fit-content;
+    margin-top:5%;
+    margin-left:30%;
+}
+.main{
+    text-align: center;
+}
+
+table{
+    padding:20px;
+   width:60%;
+    margin-left:20%;
+}
+td{
+    text-align:center;
+    height:20px;
+    padding:10px;
+}
+tr:hover {
+    background-color: coral;
+    color:white;
+}
+button{
+    
+    height:40px;
+    width:80px;
+    margin-bottom:20px;
+}
+button:hover{
+    background-color: aqua;
+    color:black;
+}
